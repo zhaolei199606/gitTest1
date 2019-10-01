@@ -3,4 +3,5 @@ public class Test {
     int branch1;
     int reset1;
     int reset2;
+    int merger;
 }
